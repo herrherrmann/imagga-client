@@ -1,0 +1,56 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="@dimen/margin_default">
+
+        <LinearLayout
+            android:id="@+id/buttonCamera"
+            style="@style/Button"
+            android:background="@drawable/button_camera"
+            android:onClick="goToCamera">
+
+            <ImageView
+                style="@style/ButtonIcon"
+                android:src="@drawable/camera" />
+
+            <TextView
+                style="@style/ButtonTitle"
+                android:text="@string/camera" />
+
+            <TextView
+                style="@style/ButtonDescription"
+                android:text="@string/camera_description" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/buttonGallery"
+            style="@style/Button"
+            android:background="@drawable/button_gallery"
+            android:onClick="goToGallery"
+            android:orientation="vertical">
+
+            <ImageView
+                style="@style/ButtonIcon"
+                android:src="@drawable/gallery" />
+
+            <TextView
+                style="@style/ButtonTitle"
+                android:text="@string/gallery" />
+
+            <TextView
+                style="@style/ButtonDescription"
+                android:text="@string/gallery_description" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</HorizontalScrollView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_main">#ff0ff538</color>
+    <color name="color_main_dark">#ff0a9b23</color>
+    <color name="color_main_darker">#ff0a691d</color>
+
+    <color name="color_black">#ff000000</color>
+    <color name="color_camera">#ffa0ee23</color>
+    <color name="color_camera_dark">#ff7fbc1d</color>
+    <color name="color_gallery">#ff36cbee</color>
+    <color name="color_gallery_dark">#ff2ca9c6</color>
+
+    <color name="color_white">#fff</color>
+    <color name="color_red">#ffe10525</color>
+</resources>

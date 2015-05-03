@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margin, per the Android Design guidelines. -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_big">24dp</dimen>
+
+    <dimen name="text_size_default">16dp</dimen>
+    <dimen name="text_size_result">18dp</dimen>
+    <dimen name="text_size_headline">24dp</dimen>
+</resources>

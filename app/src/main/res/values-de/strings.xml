@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera_description">Nimm ein Foto mit deiner Kamera auf.</string>
+    <string name="gallery_description">Wähle ein Bild aus deiner Galerie aus.</string>
+    <string name="result_found_description">Das haben wir für dein Bild gefunden:</string>
+    <string name="title_activity_result">Ergebnis</string>
+    <string name="action_help">Hilfe</string>
+    <string name="help_teaser">Bald wird es eine Hilfe geben!</string>
+    <string name="error_no_tags_found">Entschuldigung, hierzu haben wir nichts gefunden.</string>
+    <string name="gallery_select_picture">Wähle dein Bild.</string>
+    <string name="title_activity_help_screen">Hilfe</string>
+    <string name="app_description">Diese App ist eine Umsetzung des Imagga-Web-Services auf Android-Basis.</string>
+    <string name="title_activity_image">Dein Bild</string>
+    <string name="error_camera_ioexception">Ups, es gab einen Fehler beim Verwenden der Kamera!</string>
+    <string name="image_description">Das ist dein Bild.</string>
+    <string name="error_imagepath_null">Ups, dein Bild wurde nicht gefunden!</string>
+    <string name="result_fetching_tags">Die Tags für dein Bild werden nun geladen...</string>
+    <string name="done">Fertig!</string>
+    <string name="error_no_tags">Wir konnten keine Tags abrufen. Bitte versuche es erneut (am besten mit Internet).</string>
+    <string name="error_not_online">Du bist nicht online. Bitte verbinde dich zuerst mit dem Internet.</string>
+</resources>
